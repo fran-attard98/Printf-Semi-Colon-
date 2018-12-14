@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Calc.dir/main.c.obj"
+  "CMakeFiles/Calc.dir/main.c.o"
   "Calc.pdb"
-  "Calc.exe"
-  "Calc.exe.manifest"
-  "libCalc.dll.a"
+  "Calc"
 )
 
 # Per-language clean rules from dependency scanning.
